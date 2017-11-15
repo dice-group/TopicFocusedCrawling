@@ -1,0 +1,14 @@
+target
+*.log
+*.class
+.classpath
+.project
+.settings
+.idea
+squirrel.iml
+/data
+scenarios/1/worker*
+/dependency-reduced-pom.xml
+/foundUris.lck
+/foundUris.properties
+/foundUris.script
